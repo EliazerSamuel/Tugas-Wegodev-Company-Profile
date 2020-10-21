@@ -1,2 +1,2 @@
-# Tugas-Wegodev-Compant-Profile
+# Tugas-Wegodev-Company-Profile
 Created with CodeSandbox
