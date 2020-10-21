@@ -1,2 +1,2 @@
 # Tugas-Wegodev-Company-Profile
-Created with CodeSandbox
+Created by Eliazer Samuel
